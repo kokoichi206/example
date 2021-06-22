@@ -1,0 +1,7 @@
+{
+	"recommendations":[
+		// Common
+		"editorconfig.editorconfig",
+	],
+	"unwantedRecommendations": []
+}

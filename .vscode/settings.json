@@ -1,0 +1,6 @@
+{
+	"css.validate": true,
+	"editor.formatOnSave": false,
+	"files.insertFinalNewline": true,
+	"files.trimTrailingWhitespace": true,
+}
