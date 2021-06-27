@@ -9,9 +9,9 @@
 [URL](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
 ## template
-- [issue](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
-- [pull request](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
-  - [content](https://dev.classmethod.jp/articles/pull-request-template/)
+- [issue設定方法](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
+- [pull request設定方法](https://docs.github.com/ja/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository)
+  - [中身の例](https://dev.classmethod.jp/articles/pull-request-template/)
 
 ## .devcontainer
 - Dockerを使うならぜひ記述したい
